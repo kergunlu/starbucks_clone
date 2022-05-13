@@ -1,3 +1,3 @@
 # Starbucks Homepage Clone
 
-HTML/CSS clone of Starbucks.com. 
+Standard HTML/CSS clone of starbucks.com
